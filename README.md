@@ -8,7 +8,7 @@ This repository documents solutions for 12 AWS labs.
 
 | Lab No | Title                              | Link                   | 
 |--------|---------------------------------------|------------------------|
-| 01     | Cloud Computing Essentials            |[docs/lab01.md]         |
+| 01     | Cloud Computing Essentials            |[Lab01][docs/lab01.md]         |
 | 02     | Cloud First Steps                     |[docs/lab02.md]        |   
 | 03     | Computing Solutions                   |                        |                    
 | 04     | First NoSQL Database|                 |                        |                   
