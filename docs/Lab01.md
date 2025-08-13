@@ -1,7 +1,7 @@
 # Lab 01: [Cloud Computing Essentials]
 
 ## Problem Statement
-Describe the scenario/problem solved in AWS.
+The city's web portal team wants a solution that will make their beach wave size prediction webpage more reliable.
 
 ## Solution Approach
 - **AWS Services Used:** [List]
@@ -10,8 +10,8 @@ Describe the scenario/problem solved in AWS.
 ## ISO 27001:2022 Control Mapping
 | AWS Service     | ISO 27001:2022 Control | Risk Mitigated              |  
 |-----------------|------------------------|-----------------------------|
-| Example         | Example                | Example justification       |
-
+| AWS S3          | Example                | Example justification       |
+| AWS EC2         |
 ## Evidence & Files
 - [Screenshot](../evidence/lab01/screenshot1.png)
 
