@@ -19,7 +19,7 @@ This repository documents solutions for 12 AWS labs.
 | 09     | Core Security Concepts                |                        |                    
 | 10     | Auto-Healing and Scaling Applications |                        |                               
 | 11     | HIghly Available Web Applications     |                        |                                              
-| 12     | COnnecting VPCs                       |[Lab 12](docs/lab12.md) |
+| 12     | COnnecting VPCs                       |[Lab 12] |
                                           
 ## Evidence & Files
 
