@@ -6,23 +6,21 @@ This repository documents solutions for 12 AWS labs.
 
 ## Labs Overview
 
-| Lab No | Title                      |     |     | Link |
-|--------|----------------------------|--------------  |------------------- |------|
-| 01     | Cloud Computing Essentials | (Services)    | (Controls)         | [Lab 01](docs/lab01.md) |
-| 02     | Cloud First Steps          | (Services)    | (Controls)         | [Lab 02](docs/lab02.md) |   
-| 03     | Computing Solutions        |               |                    |
-| 04     | First NoSQL Database|      |               |                    |
-| 05     | Networking Concepts        |               |                    |
-| 06     | Cloud Economics            |               |                    |
-| 07     | File SYstems in the Cloud  |               |                    |
-| 08     | Databases in Practice      |               |                    |
-| 09     | Core Security Concepts     |               |                    |
-| 10     | Auto-Healing and Scaling 
-           Applications               |               |                    |
-| 11     | HIghly Available Web 
-           Applications               |               |                    |   
-| 12     | COnnecting VPCs            |               |                    |[Lab 12](docs/lab12.md)
-
+| Lab No | Title                              | Link                   | 
+|--------|---------------------------------------|------------------------|
+| 01     | Cloud Computing Essentials            |[Lab 01](docs/lab01.md) |
+| 02     | Cloud First Steps                     |[Lab 02](docs/lab02.md) |   
+| 03     | Computing Solutions                   |                        |                    
+| 04     | First NoSQL Database|                 |                        |                   
+| 05     | Networking Concepts                   |                        |                    
+| 06     | Cloud Economics                       |                        |                    
+| 07     | File SYstems in the Cloud             |                        |                    
+| 08     | Databases in Practice                 |                        |                    
+| 09     | Core Security Concepts                |                        |                    
+| 10     | Auto-Healing and Scaling Applications |                        |                               
+| 11     | HIghly Available Web Applications     |                        |                                              
+| 12     | COnnecting VPCs                       |[Lab 12](docs/lab12.md) |
+                                          
 ## Evidence & Files
 
 See `/evidence/` for screenshots and `/files/` for supporting files per lab.
