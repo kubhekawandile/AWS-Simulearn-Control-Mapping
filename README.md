@@ -70,7 +70,5 @@ This repository is for educational and portfolio purposes. All content is author
 *Thank you for exploring my AWS Cloud Practitioner GRC labs portfolio!*
 
 
-
-
 Author: [ Wandile Kubheka]  
 Contact: [Your email or LinkedIn]
