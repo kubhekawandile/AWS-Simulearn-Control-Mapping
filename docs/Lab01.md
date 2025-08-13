@@ -21,7 +21,7 @@ To solve the problem, the city’s web portal was migrated to a **newly created 
 
 3. **Architecture Diagram:**  
    ![Architecture Diagram](../evidence/lab01/architecture-diagram.png)  
-   *(Place your diagram screenshot in `evidence/lab01/` and name it `architecture-diagram.png`)*
+   
 
 4. **Outcome:**  
    - The webpage now scales automatically to handle traffic spikes.  
