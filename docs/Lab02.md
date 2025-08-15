@@ -20,7 +20,7 @@ To address the problem, we deployed **EC2 instances across multiple Availability
    - EBS volumes are **encrypted at rest and in transit** to protect sensitive stabilization data.  
 
 3. **Architecture Diagram**
-   ![Architecture Diagram](../evidence/lab02/architecture-diagram.png)  
+   ![Architecture Diagram](../evidence/lab02/Architecture-Diagram.png)  
    
 4. **Outcome:**  
    - High availability and fault tolerance are ensured.  
