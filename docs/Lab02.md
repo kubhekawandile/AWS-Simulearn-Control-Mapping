@@ -1,37 +1,31 @@
-# Lab 01: Cloud Computing Essentials
+# Lab 02: Cloud First Steps
 
 ## Problem Statement
 
-**Jack Mayers – City Mayor**
+Zap Gigabyte  
 
 I'm managing our city's web portal team and facing challenges with our beach wave size prediction webpage. Our current system isn't reliable enough for residents who depend on this information for safe beach activities. We need a reliable, scalable hosting solution that can store daily prediction files, an HTML file for displaying data in tables, plus JavaScript and CSS files – all relatively small in size – and perform consistently even during high traffic periods.
 
 ## Solution Approach
 
-To solve the problem, the city’s web portal was migrated to a **newly created Amazon S3 bucket** configured for **static website hosting**:
+To address the problem, we deployed **EC2 instances across multiple Availability Zones (AZs)** with **Elastic Block Store (EBS) volumes** attached, along with **auto-scaling and load balancing**:
 
-1. **S3 Bucket Creation:**  
-   - A dedicated S3 bucket was created to host the webpage and store daily prediction files.  
-   - The HTML file, JavaScript, CSS, and data files were uploaded to the bucket.
+1. **EC2 Deployment Across Multiple AZs:**  
+   - Multiple EC2 instances were launched across at least two AZs to ensure fault tolerance.  
+   - Auto Scaling Groups (ASGs) automatically adjust the number of instances based on workload.  
 
-2. **Access Control and Security:**  
-   - Bucket policies were configured to allow public read access (`s3:GetObject`) for the HTML webpage.  
-   - IAM roles with least privilege were set up for administrative access to upload or modify files.  
-   - Server-side encryption (SSE-S3) was enabled to secure data at rest.
+2. **EBS Volumes for Persistent Storage:**  
+   - Each EC2 instance has an attached **EBS volume** for persistent block storage.  
+   - **Snapshots** are taken regularly to allow recovery in case of volume failure or AZ disruption.  
+   - EBS volumes are **encrypted at rest and in transit** to protect sensitive stabilization data.  
 
-3. **Architecture Diagram:**  
-   ![Architecture Diagram](../evidence/lab01/architecture-diagram.png)  
-   
+3. **Elastic Load Balancer (ELB):**  
+   - ELB distributes workload between EC2 instances across AZs, ensuring **high availability** and **reducing performance bottlenecks**.  
 
 4. **Outcome:**  
-   - The webpage now scales automatically to handle traffic spikes.  
-   - Daily prediction files are reliably stored, and access controls prevent unauthorized changes.  
-   - The site is highly available (99.99%) and serves the public safely and consistently.
-
-**AWS Services Used:** S3 encryption + bucket policies, IAM roles & least privilege  
-
----
-
+   - High availability and fault tolerance are ensured.  
+   - System workloads automatically shift to healthy instances in case of failure.  
+   - Sensitive data is protected, and backups allow fast recovery.  
 ## ISO 27001:2022 Control–Risk Mapping (Using Only Services in Diagram)
 
 | ISO 27001 Control | Risk Mitigated in the Scenario | AWS Feature from Diagram |
