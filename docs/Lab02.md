@@ -70,3 +70,21 @@ To address the problem, we deployed **EC2 instances across multiple Availability
 - Multi-AZ EC2 deployment reduces **single points of failure**.  
 - EBS snapshots provide a **reliable backup and recovery mechanism**.  
 - Auto Scaling ensures the system can **handle varying workloads** without disruption.
+
+## Future Improvements 
+
+1. **Implement Elastic Load Balancing (ELB)**
+   - Introduce an **Application Load Balancer (ALB)** or **Network Load Balancer (NLB)** to distribute traffic evenly across EC2 instances.
+   - Improves fault tolerance and ensures that user requests are automatically routed to healthy instances.
+   - Enhances performance during peak traffic periods.
+
+2. **Enable Monitoring and Automated Alerts**
+   - Integrate **Amazon CloudWatch** to monitor EC2 instance metrics, EBS performance, and Auto Scaling events.
+   - Set up **alarms and notifications** for unusual activity, high CPU/memory usage, or EBS volume issues.
+   - Helps proactively detect failures and performance bottlenecks.
+
+3. **Implement Infrastructure as Code (IaC)**
+   - Use **AWS CloudFormation** or **Terraform** to define EC2, EBS, and Auto Scaling infrastructure as code.
+   - Enables **consistent deployments**, easy replication of environments, and simplified recovery in case of misconfigurations.
+   - Improves maintainability and reduces manual errors.
+
