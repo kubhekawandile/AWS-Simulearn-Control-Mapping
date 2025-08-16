@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-## Elias Gateway -  Systems Administrator 
+**Elias Gateway -  Systems Administrator** 
 
 
 Our school's class scheduling system running on an Amazon EC2 instance is struggling to keep up with our growing needs, causing delays during peak registration periods. I need to find a way to develop a script that will let us access our machines, retrieve their metadata and status, and if necessary, change the instance type to enhance computing capacity. Is there a unified tool we could use to manage our AWS services, run commands, and automate these tasks through scripts?
