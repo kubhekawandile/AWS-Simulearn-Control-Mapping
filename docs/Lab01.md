@@ -38,7 +38,7 @@ To solve the problem, the city’s web portal was migrated to a **newly created 
 |------------------|--------------------------------|-------------------------|
 | A.5.15 – Access control | Unauthorized upload or change of prediction files causing misinformation. Accidental file deletion causing loss of availability. Public write access risk. | S3 bucket policy to allow only `s3:GetObject` for public, IAM access for authorized staff. |
 | A.5.29 – Information security in supplier relationships | Misunderstanding of AWS’s shared responsibility model leading to misconfiguration. Failure to secure data in AWS S3 causing service trust issues. | AWS S3 service with correctly configured access controls per shared responsibility guidance. |
-| A.8.3 – Information classification and handling | Integrity loss of critical public safety data. Inability to trace file changes for accountability. Public access to unprotected or corrupted files. | Amazon S3 with server-side encryption (SSE-S3) and versioning enabled. |
+| A.8.3 – Information classification and handling | Integrity loss of critical public safety data. Inability to trace file changes for accountability. Public access to unprotected or corrupted files. | Amazon S3 with server-side encryption (SSE-S3).  |
 | A.5.30 – ICT readiness for business continuity (Suggested addition) | Website downtime during peak traffic season if storage can’t scale. Delays in residents receiving safety-critical wave data. No rapid recovery if storage fails. | Amazon S3 provides high availability (99.99%) and scales automatically to meet traffic demand. |
 
 ---
