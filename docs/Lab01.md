@@ -20,7 +20,7 @@ To solve the problem, the city’s web portal was migrated to a **newly created 
    - Server-side encryption (SSE-S3) was enabled to secure data at rest.
 
 3. **Architecture Diagram:**  
-   ![Architecture Diagram](../evidence/lab01/architecture-diagram.png)  
+   ![Architecture Diagram](../evidence/lab01/architecture-diagram1.png)  
    
 
 4. **Outcome:**  
