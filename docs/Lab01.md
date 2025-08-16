@@ -73,3 +73,19 @@ To solve the problem, the city’s web portal was migrated to a **newly created 
 - S3 offers built-in high availability (99.99%) and automatic scaling to handle variable or seasonal demand.  
 - This reduces the risk of downtime during peak usage periods, supporting business continuity.  
 - Some AWS services, like S3, come with embedded risk mitigation features (availability, scalability) by default.
+
+- ---
+
+## Future Improvements  
+
+While the current solution meets the requirements, the following improvements could strengthen the system further:  
+
+1. **Content Delivery Optimization**  
+   - Use **Amazon CloudFront** to distribute content globally, reducing latency and improving user experience.  
+
+2. **Enhanced Security**  
+   - Implement **AWS Web Application Firewall (WAF)** in front of CloudFront to protect against common web threats.  
+
+3. **Monitoring & Logging**  
+   - Enable **Amazon CloudWatch** and **AWS CloudTrail** to monitor activity, detect anomalies, and maintain compliance records.  
+
