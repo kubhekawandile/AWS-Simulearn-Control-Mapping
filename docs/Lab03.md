@@ -1,4 +1,4 @@
-# Lab 03: Computing Solutions.
+# Lab 03: Computing Solutions
 
 ## Problem Statement
 
