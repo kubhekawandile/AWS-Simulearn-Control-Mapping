@@ -13,21 +13,21 @@ Our school's class scheduling system running on an Amazon EC2 instance is strugg
 
 To address the problem, we implemented **AWS Systems Manager (SSM)** with **AWS CLI** and automation scripts:
 
-### AWS Systems Manager for Centralized Management
-- **Session Manager** provides secure shell access to EC2 instances without opening inbound ports.
-- **Run Command** allows execution of scripts across multiple EC2 instances to retrieve metadata, system status, or perform updates.
-- **Automation Documents (SSM Documents)** automate instance type changes and other repetitive administrative tasks.
+1. **AWS Systems Manager for Centralized Management**
+- Session Manager provides secure shell access to EC2 instances without opening inbound ports.
+- Run Command allows execution of scripts across multiple EC2 instances to retrieve metadata, system status, or perform updates.
+- Automation Documents (SSM Documents)** automate instance type changes and other repetitive administrative tasks.
 
-### AWS CLI Integration
+2. **AWS CLI Integration**
 - Scripts use AWS CLI to query instance metadata, check CPU/memory usage, and trigger SSM automation workflows.
 - Enables a **single toolchain** for monitoring and managing multiple EC2 instances at scale.
 
-### Architecture Diagram
+3. **Architecture Diagram**
 *(Insert diagram showing EC2 instances managed via SSM, with CLI and automation workflows.)*
 
 ---
 
-## Outcome
+4. **Outcome**
 - Centralized management of EC2 instances with automated metadata retrieval.
 - Dynamic scaling of instance types during peak registration periods.
 - Secure access and auditability of all administrative actions.
