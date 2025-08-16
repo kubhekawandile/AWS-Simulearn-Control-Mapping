@@ -71,6 +71,8 @@ To address the problem, we deployed **EC2 instances across multiple Availability
 - EBS snapshots provide a **reliable backup and recovery mechanism**.  
 - Auto Scaling ensures the system can **handle varying workloads** without disruption.
 
+---
+
 ## Future Improvements 
 
 1. **Implement Elastic Load Balancing (ELB)**
