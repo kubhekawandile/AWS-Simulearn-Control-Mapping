@@ -1,4 +1,4 @@
-# Lab 05: Secure Internet Connectivity
+# Lab 05: Networking Concepts
 
 ## Problem Statement
 
