@@ -1,12 +1,36 @@
-Copyright (c) 2025 Kubheka Wandile
+# License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this project and its associated files (the "Project"), to use, study, and modify the Project for educational purposes only, subject to the following conditions:
+Copyright (c) 2025 Kubheka Wandile  
 
-1. All compiled information, code, documentation, and materials within this repository are the original work of the author, unless otherwise stated.
-2. The Project is open for collaboration. Contributions are welcome. All contributors will be credited.
-3. The Project may not be used for commercial purposes without explicit permission from the author.
-4. Redistributions of modified or original versions must retain this notice.
+This project and its associated files (the "Project") are licensed under the  
+**Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).**
 
-THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
+---
 
-For permissions beyond educational and collaborative use, please contact the author.
+## You are free to:
+- **Share** — copy and redistribute the material in any medium or format.  
+- **Adapt** — remix, transform, and build upon the material.  
+
+---
+
+## Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  
+- **NonCommercial** — You may not use the material for commercial purposes.  
+- **No Additional Restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  
+
+---
+
+## Disclaimer
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.  
+THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS PROJECT.  
+
+---
+
+## For Permissions Beyond This License
+For commercial or other uses beyond educational and collaborative purposes, please contact:  
+**Kubheka Wandile**  
+
+---
+
+## License Badge
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)  
