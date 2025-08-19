@@ -49,8 +49,7 @@ To address the problem, we implemented **Amazon RDS** with features for resilien
 | A.5.15 – Access control | Unauthorized access to the database | IAM roles and RDS authentication manage access to the DB instance |  
 | A.8.13 – Data backup | Data loss due to accidental deletion or corruption | Automated RDS backups and point-in-time recovery |  
 | A.5.30 – ICT readiness for business continuity | Database outage due to AZ failure | Multi-AZ deployment ensures automatic failover and resilience |  
-| A.8.28 – Secure disposal or re-use of equipment | Risk of incomplete deletion of old database data | RDS automated backup retention and snapshot deletion processes |  
-| A.8.21 – Data masking / performance protection | Query performance bottlenecks affecting availability of services | RDS Read Replicas offload read loads to maintain performance |  
+| A.5.23 – Information security in use of cloud services | Performance and availability risks in cloud-based services | RDS Read Replicas offload read traffic and support service continuity |  
 
 ---
 
@@ -97,3 +96,4 @@ To address the problem, we implemented **Amazon RDS** with features for resilien
 5. **Add Monitoring and Alerts with CloudWatch**  
    - Use **Amazon CloudWatch** to monitor RDS performance metrics (CPU, connections, latency).  
    - Set up alerts for anomalies or unusual activity to strengthen operational oversight.  
+
