@@ -30,7 +30,7 @@ To solve the problem, we implemented **Amazon EC2 Auto Scaling with scheduled sc
    - Provisioning limits prevent resource abuse and ensure fair usage.  
    - Scheduled scaling reduces costs while meeting predictable demand.  
 
-**AWS Services Used:** EC2 Auto Scaling, Launch Configurations, Scheduled Scaling.
+**AWS Services Used:** EC2 Auto Scaling, Launch Configurations, Scheduled Scaling, CloudWatch
 
 ---
 
