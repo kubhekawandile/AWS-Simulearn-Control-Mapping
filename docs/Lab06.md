@@ -19,7 +19,7 @@ To address the problem, we used the **AWS Pricing Calculator** to explore servic
    - Provides transparency and confidence before provisioning cloud resources.  
 
 3. **Architecture Diagram**  
-   ![Architecture Diagram](../evidence/lab06/Architecture-Diagram.png)  
+   ![Architecture Diagram](../evidence/lab06/architecture-diagram.png)  
 
 4. **Outcome:**  
    - A clear cost model that shows expected charges before deployment.  
