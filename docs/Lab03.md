@@ -20,7 +20,7 @@ To address the problem, we implemented **AWS Systems Manager (SSM)** with **AWS 
    - Enables a **single toolchain** for monitoring and managing multiple EC2 instances at scale.  
 
 3. **Architecture Diagram**  
-   ![Architecture Diagram](../evidence/lab03/Architecture-Diagram.png)  
+   ![Architecture Diagram](../evidence/lab03/architecture-diagram.png)  
 
 4. **Outcome:**  
    - Centralized management of EC2 instances with **automated metadata retrieval**.  
