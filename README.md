@@ -1,74 +1,76 @@
-# AWS Simulearn Cloud Practitioner GRC Labs Portfolio
+# AWS SimuLearn Cloud Practitioner GRC Labs Portfolio  
 
-Welcome to my **AWS Simulearn Cloud Practitioner/GRC Labs Portfolio**.  
-This repository contains **12 hands-on labs** designed to strengthen my understanding of:
+Welcome to my **AWS SimuLearn Cloud Practitioner / GRC Labs Portfolio**.  
+This repository documents my work on **12 guided cloud labs from SimuLearn**, where I combined **AWS hands-on practice** with **Governance, Risk, and Compliance (GRC)** principles.  
 
-- **Governance, Risk, and Compliance (GRC) concepts**  
-- **AWS cloud infrastructure and shared responsibility**  
-- **Compliance frameworks and risk controls**  
+These labs helped me strengthen my understanding of:  
+- **GRC concepts** and real-world application  
+- **AWS cloud infrastructure** and the **shared responsibility model**  
+- **Compliance frameworks and security controls**  
 
-> **Note:** The mapping of controls and compliance references were **not part of the original lab instructions**. These were added as my own initiative to demonstrate practical GRC application.
-
----
-
-## Repository Structure
-
-
-- **`docs/`**: Each lab contains objectives, steps, observations, lessons learned, and optional control mapping.  
-- **`evidence/`**: Each subfolder corresponds to a lab and contains screenshots or diagrams to support the documentation.
+> **Note:** The original SimuLearn labs did not include compliance mapping.  
+> I independently added **control mapping (ISO 27001, NIST, etc.)** to demonstrate how technical work connects to governance and risk management.
 
 ---
 
-## Lab Documentation Format
+## Repository Structure  
 
-Each lab Markdown file follows this structure:
+- **`docs/`** → Lab write-ups including objectives, steps, observations, lessons learned, and optional control mapping  
+- **`evidence/`** → Lab-specific folders with screenshots and diagrams that support the documentation  
 
-1. **Objective** – Goal of the lab  
-2. **Steps** – Actions taken to complete the lab  
-3. **Observations** – Key findings and outcomes  
+---
+
+## Lab Documentation Format  
+
+Each lab Markdown file follows this structure:  
+
+1. **Objective** – What the lab aims to achieve  
+2. **Steps** – Actions performed in AWS  
+3. **Observations** – Outcomes and key findings  
 4. **Lessons Learned** – Insights gained and GRC relevance  
-5. **Optional Control Mapping** – My initiative to map security and compliance controls to the lab scenario
+5. **Optional Control Mapping** – My contribution: linking security/compliance controls to the lab  
 
 ---
 
-## Learning Goals
+## Learning Goals  
 
-### GRC Learning Goals
-- Apply GRC concepts in practical scenarios  
+### GRC Learning Goals  
+- Apply governance, risk, and compliance principles in practical AWS scenarios  
 - Understand risk assessment and mitigation strategies  
-- Explore compliance frameworks and shared responsibility models  
-- Document processes in a structured, professional manner
+- Map cloud practices to compliance frameworks (ISO 27001, NIST, etc.)  
+- Develop professional, structured documentation practices  
 
-### Cloud Learning Goals
-- Understand core **AWS cloud infrastructure concepts**  
-- Gain hands-on experience with AWS services relevant to security and governance  
-- Understand cloud shared responsibility and security best practices  
-- Relate cloud configurations and deployments to compliance and risk controls
-
----
-
-## How to Use This Repository
-
-1. **Review Labs:** Open `docs/` and select a lab file (e.g., `Lab-01.md`)  
-2. **View Evidence:** Explore the corresponding folder in `evidence/` (`lab01` → `lab12`) for screenshots and diagrams  
-3. **Explore Control Mapping:** Check the optional control mapping section for practical GRC applications
+### Cloud Learning Goals  
+- Strengthen knowledge of AWS foundational services  
+- Practice hands-on implementation of security and governance features  
+- Explore the shared responsibility model in real cloud scenarios  
+- Relate cloud configurations to compliance and risk controls  
 
 ---
 
-## About Me
+## How to Navigate the Repository  
 
-I am actively building hands-on GRC experience and demonstrating it through this portfolio. My goal is to leverage these labs, combined with cloud knowledge, risk management, and compliance frameworks, to pursue a GRC-focused role.
-
----
-
-## License
-
-This repository is for educational and portfolio purposes. All content is authored by me unless otherwise stated.
+1. **Read the Labs:** Open `docs/` and select a lab file (e.g., `Lab-01.md`)  
+2. **Check Evidence:** Browse `evidence/` folders (`lab01` → `lab12`) for screenshots and diagrams  
+3. **Review Control Mapping:** See how each lab ties into governance and compliance frameworks  
 
 ---
 
-*Thank you for exploring my AWS Cloud Practitioner GRC labs portfolio!*
+## About Me  
 
+I am actively building **hands-on GRC and cloud experience** and documenting it through this portfolio.  
+My goal is to bridge **cloud technology** with **governance, risk, and compliance**, and showcase how technical implementation aligns with regulatory and security frameworks.  
 
-Author: [ Wandile Kubheka]  
-Contact: [Your email or LinkedIn]
+---
+
+## License  
+
+This repository is for educational and portfolio purposes.  
+All content is authored by me unless otherwise noted.  
+
+---
+
+*Thank you for exploring my AWS SimuLearn GRC Labs Portfolio!*  
+
+**Author:** Wandile Kubheka  
+**Contact:** [Your Email] | [LinkedIn]  
