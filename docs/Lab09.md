@@ -30,7 +30,7 @@ To address the problem, we implemented centralized identity and access managemen
    - Improves scalability by centralizing permissions.  
 
 5. **Architecture Diagram**  
-   ![Architecture Diagram](../evidence/lab09/Architecture-Diagram.png)  
+   ![Architecture Diagram](../evidence/lab09/architecture-diagram.png)  
 
 6. **Outcome**  
    - Ensures efficient, secure, and scalable access management.  
