@@ -30,7 +30,7 @@ To address the problem, we implemented **Amazon RDS** with features for resilien
    - Improves performance and reduces latency for real-time queries.  
 
 5. **Architecture Diagram**  
-   ![Architecture Diagram](../evidence/lab08/Architecture-Diagram.png)  
+   ![Architecture Diagram](../evidence/lab08/architecture-diagram.png)  
 
 6. **Outcome**  
    - Frees DBAs from routine maintenance tasks.  
