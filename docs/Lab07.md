@@ -19,7 +19,7 @@ To address the problem, we implemented **Amazon Elastic File System (EFS)** with
    - Data is encrypted **at rest and in transit** to protect sensitive client information.  
 
 3. **Architecture Diagram**  
-   ![Architecture Diagram](../evidence/lab07/Architecture-Diagram.png)  
+   ![Architecture Diagram](../evidence/lab07/architecture-diagram.png)  
 
 4. **Outcome**  
    - Eliminates inconsistent syncing by using a **single centralized file system**.  
