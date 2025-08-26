@@ -23,7 +23,7 @@ To solve the problem, we implemented **Amazon EC2 Auto Scaling with scheduled sc
    - Scales servers back down after the event ends (1:15 AM).  
 
 3. **Architecture Diagram:**  
-   ![Architecture Diagram](../evidence/lab10/architecture-diagram10.png)  
+   ![Architecture Diagram](../evidence/lab10/architecture-diagram.png)  
 
 4. **Outcome:**  
    - Game servers are resilient and self-heal when failures occur.  
