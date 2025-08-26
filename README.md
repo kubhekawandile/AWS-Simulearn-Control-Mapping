@@ -9,7 +9,7 @@ These labs helped me strengthen my understanding of:
 - **Compliance frameworks and security controls**  
 
 > **Note:** The original SimuLearn labs did not include compliance mapping.  
-> I independently added **control mapping (ISO 27001, NIST, etc.)** to demonstrate how technical work connects to governance and risk management.
+> I independently added **control mapping ISO 27001:2022** to demonstrate how technical work connects to governance and risk management.
 
 ---
 
