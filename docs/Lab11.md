@@ -35,7 +35,7 @@ To address the problem, we implemented **AWS Auto Scaling and Load Balancing**:
    - Triggers Auto Scaling policies based on thresholds.  
 
 6. **Architecture Diagram**  
-   ![Architecture Diagram](../evidence/lab11/Architecture-Diagram.png)  
+   ![Architecture Diagram](../evidence/lab11/architecture-diagram.png)  
 
 7. **Outcome**  
    - Application can handle spikes in traffic without downtime.  
