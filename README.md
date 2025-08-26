@@ -73,4 +73,4 @@ All content is authored by me unless otherwise noted.
 *Thank you for exploring my AWS SimuLearn GRC Labs Portfolio!*  
 
 **Author:** Wandile Kubheka  
-**Contact:** [Your Email] | [LinkedIn]  
+**Contact:** [wandilekubheka1224@gmail.com] | [www.linkedin.com/in/wandile-kubheka]  
