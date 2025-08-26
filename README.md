@@ -1,6 +1,6 @@
-# AWS Cloud Practitioner GRC Labs Portfolio
+# AWS Simulearn Cloud Practitioner GRC Labs Portfolio
 
-Welcome to my **AWS Skills Builder Cloud Practitioner GRC Labs Portfolio**.  
+Welcome to my **AWS Simulearn Cloud Practitioner/GRC Labs Portfolio**.  
 This repository contains **12 hands-on labs** designed to strengthen my understanding of:
 
 - **Governance, Risk, and Compliance (GRC) concepts**  
