@@ -30,7 +30,7 @@ To address the problem, we implemented **VPC Peering** between Marketing and Fin
    - Confirm that no other unauthorized resources are accessible.  
 
 5. **Architecture Diagram**  
-   ![Architecture Diagram](../evidence/lab12/Architecture-Diagram.png)  
+   ![Architecture Diagram](../evidence/lab12/architecture-diagram.png)  
 
 6. **Outcome**  
    - Marketing and Development staff can securely access Finance reports without support tickets.  
