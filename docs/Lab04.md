@@ -16,7 +16,7 @@ To address the problem, we implemented **Amazon DynamoDB**, a serverless NoSQL d
    - Low-latency responses ensure a **smooth user experience** even under high load.  
 
 2. **Architecture Diagram**  
-   ![Architecture Diagram](../evidence/lab04/Architecture-Diagram.png)  
+   ![Architecture Diagram](../evidence/lab04/architecture-diagram.png)  
 
 3. **Outcome:**  
    - Reliable collection and management of **viewer behavior data**.  
