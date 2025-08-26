@@ -21,7 +21,7 @@ To address the problem, we implemented an **Internet Gateway (IGW)** attached to
    - Ensured separation between public and private subnets for secure segmentation.  
 
 3. **Architecture Diagram**  
-   ![Architecture Diagram](../evidence/lab05/Architecture-Diagram.png)  
+   ![Architecture Diagram](../evidence/lab05/architecture-diagram.png)  
 
 4. **Outcome:**  
    - Secure, controlled connectivity between the VPC and the internet.  
